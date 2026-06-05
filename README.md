@@ -2,7 +2,7 @@
 
 **`Inteligência Computacional`**
 
-Meu nome é Sergio Marteletto e estou concluindo a pós-graduação em modelagem de sistemas complexos. Atualmente me dedico ao desenvolvimento de estratégias e automações com inteligência computacional. Também compartilho informações sobre tecnologia através do meu canal no Youtube, do meu podcast no Spotify e de artigos publicados no meu perfil do Linkedin.
+Meu nome é Sergio Marteletto e estou concluindo a pós-graduação em modelagem de sistemas complexos. Atualmente me dedico ao desenvolvimento de estratégias e automações com inteligência artificial. Também compartilho informações sobre tecnologia através do meu canal no Youtube, do meu podcast no Spotify e de artigos publicados no meu perfil do Linkedin.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
